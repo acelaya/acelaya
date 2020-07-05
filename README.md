@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alejandro. I'm a Full-stack engineer, based in Zaragoza (Spain) and currently working for @adidas as a Software Engineer.
+My name is Alejandro. I'm a Full-stack engineer, based in Zaragoza (Spain) and currently working for [@adidas](https://github.com/adidas) as a Software Engineer.
 
 I love to create and contribute to OSS, and in the past few years I have created [several projects](https://github.com/acelaya?tab=repositories), mostly related with web technologies.
 
