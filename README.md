@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alejandro. I'm a Full-stack engineer, based in Zaragoza (Spain) and currently working for @adidas as a Software Engineer.
+
+I love to create and contribute to OSS, and in the past few years I have created [several projects](https://github.com/acelaya?tab=repositories), mostly related with web technologies.
+
+Currently I'm mainly focused on [Shlink](https://shlink.io/), a self-hosted URL shortener.
+
 <!--
 **acelaya/acelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
