@@ -6,6 +6,8 @@ I love to create and contribute to OSS, and in the past few years I have created
 
 Currently I'm mainly focused on [Shlink](https://shlink.io/), a self-hosted URL shortener.
 
+I also have a blog where I write about software on general and OSS, [take a look](https://alejandrocelaya.blog).
+
 <!--
 **acelaya/acelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
