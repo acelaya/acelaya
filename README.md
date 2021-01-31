@@ -8,6 +8,11 @@ Currently I'm mainly focused on [Shlink](https://shlink.io/), a self-hosted URL 
 
 I also have a blog where I write about software in general, [take a look](https://alejandrocelaya.blog).
 
+You can also follow me in my other social networks:
+
+* [Twitter](https://twitter.com/acelayaa)
+* [LinkedIn](https://www.linkedin.com/in/alejandro-celaya-alastrue/)
+
 <!--
 **acelaya/acelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
