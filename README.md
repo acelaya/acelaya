@@ -10,9 +10,9 @@ I also have a blog where I write about software in general, [take a look](https:
 
 You can also follow me in my other social networks:
 
-* [Twitter](https://twitter.com/acelayaa)
-* [LinkedIn](https://www.linkedin.com/in/alejandro-celaya-alastrue/)
-* [Polywork](poly.work/acelaya)
+[![Mastodon](https://img.shields.io/static/v1?label=&message=Mastodon&color=6364FF&logo=mastodon&style=for-the-badge&logoColor=white)](https://mstdn.social/@acelaya)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/acelayaa)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=Linkedin&color=0077b5&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alejandro-celaya-alastrue/)
 
 <!--
 **acelaya/acelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
