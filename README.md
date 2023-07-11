@@ -10,7 +10,7 @@ I also have a blog where I write about software in general, [take a look](https:
 
 You can also follow me in my other social networks:
 
-<a rel="me" href="https://mastodon/@acelaya"><img src="https://img.shields.io/static/v1?label=&amp;message=Mastodon&amp;color=6364FF&amp;logo=mastodon&amp;style=for-the-badge&amp;logoColor=white" alt="Mastodon"></a>
+<a rel="me" href="https://mastodon.social/@acelaya"><img src="https://img.shields.io/static/v1?label=&amp;message=Mastodon&amp;color=6364FF&amp;logo=mastodon&amp;style=for-the-badge&amp;logoColor=white" alt="Mastodon"></a>
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1da1f2&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/acelayaa)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=Linkedin&color=0077b5&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alejandro-celaya-alastrue/)
 
