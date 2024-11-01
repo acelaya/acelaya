@@ -11,8 +11,7 @@ I also have a blog where I write about software in general, [take a look](https:
 You can also follow me in my other social networks:
 
 <a rel="me" href="https://mastodon.social/@acelaya"><img src="https://img.shields.io/static/v1?label=&amp;message=Mastodon&amp;color=6364FF&amp;logo=mastodon&amp;style=for-the-badge&amp;logoColor=white" alt="Mastodon"></a>
-[![Bluesky](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/acelaya.bsky.social)
-[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter%20%28X%29&color=000000&logo=x&style=for-the-badge&logoColor=white)](https://twitter.com/acelayaa)
+[![Bluesky](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/acelaya.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=Linkedin&color=0077b5&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/alejandro-celaya-alastrue/)
 
 <!--
